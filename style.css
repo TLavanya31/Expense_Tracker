@@ -1,0 +1,35 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.nav-bar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-bar h1 {
+    margin: 0;
+}
+
+.expenses-table {
+    margin-top: 20px;
+}
+
+.modal-form {
+    padding: 20px;
+}
+
+.total-expenses {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.expenses-by-category {
+    margin-top: 20px;
+}
+
+.expenses-by-date {
+    margin-top: 20px;
+}
